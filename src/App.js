@@ -1,10 +1,10 @@
 import React from 'react';
-import Controls from './Controls/index.js';
+import Chat from './Chat';
 import './style.css';
 
 
 const App = () => (
-    <Controls/>
+    <Chat/>
 );
 
 export default App;
